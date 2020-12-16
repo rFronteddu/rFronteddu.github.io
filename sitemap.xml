@@ -3,18 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://rFronteddu.github.io/posts/my-first-post/</loc>
-    <lastmod>2020-12-16T20:29:07+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://rFronteddu.github.io/posts/</loc>
-    <lastmod>2020-12-16T20:29:07+00:00</lastmod>
+    <loc>http://rFronteddu.github.io/posts/globbing/</loc>
+    <lastmod>2020-12-16T23:24:19+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://rFronteddu.github.io/</loc>
-    <lastmod>2020-12-16T20:29:07+00:00</lastmod>
+    <lastmod>2020-12-16T23:24:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rFronteddu.github.io/posts/</loc>
+    <lastmod>2020-12-16T23:24:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rFronteddu.github.io/about/</loc>
   </url>
   
   <url>

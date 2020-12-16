@@ -1,19 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>RFronteddu</title>
+    <title>My life in a Shell</title>
     <link>http://rFronteddu.github.io/</link>
-    <description>Recent content on RFronteddu</description>
+    <description>Recent content on My life in a Shell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Dec 2020 20:29:07 +0000</lastBuildDate><atom:link href="http://rFronteddu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Dec 2020 23:24:19 +0000</lastBuildDate><atom:link href="http://rFronteddu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://rFronteddu.github.io/posts/my-first-post/</link>
-      <pubDate>Wed, 16 Dec 2020 20:29:07 +0000</pubDate>
+      <title>Globbing</title>
+      <link>http://rFronteddu.github.io/posts/globbing/</link>
+      <pubDate>Wed, 16 Dec 2020 23:24:19 +0000</pubDate>
       
-      <guid>http://rFronteddu.github.io/posts/my-first-post/</guid>
-      <description>Bla bla bla</description>
+      <guid>http://rFronteddu.github.io/posts/globbing/</guid>
+      <description>Today I was playing with hugo and I wanted to automate my pipeline a bit so I made a script that looked like this:
+eval &#39;rm -rv !(&amp;quot;hugo&amp;quot;|*.sh)&#39;  But I quickly discovered that even if that would work on a shell it would not work on a script. That is because a script doesn&amp;rsquo;t know how to process globbing (round parentesys expansion). To fix that I enabled glob changing the script as follows:</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://rFronteddu.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rFronteddu.github.io/about/</guid>
+      <description>Hi! My name is Roberto Fronteddu and I am from Longastrino, Italy. Longastrino is a little town in the middle of nowhere. I grew up biking around swamps, serving coffees at my parents’ bar, eating pizza during the weekend (my father used to be a pizza maker), and playing lots of video games. I figured out I wanted to be a software developer pretty quickly (either that or hobo martial artist) but it took a while before I could get into that.</description>
     </item>
     
   </channel>
