@@ -1,0 +1,4 @@
+baseURL = "http://rFronteddu.github.io/"
+languageCode = "en-us"
+title = "RFronteddu"
+theme = "ananke"
