@@ -1,4 +1,7 @@
 baseURL = "http://rFronteddu.github.io/"
 languageCode = "en-us"
 title = "Life in a Shell"
-theme = "ananke"
+theme
+    - github.com/theNewDynamic/gohugo-theme-ananke
+[param]
+ github="https://github.com/rFronteddu"
