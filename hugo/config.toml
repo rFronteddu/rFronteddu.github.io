@@ -1,7 +1,10 @@
 baseURL = "http://rFronteddu.github.io/"
 languageCode = "en-us"
 title = "Life in a Shell"
-theme
-    - github.com/theNewDynamic/gohugo-theme-ananke
-[param]
- github="https://github.com/rFronteddu"
+theme = "ananke"
+[params]
+  description = "Don't panic.. and if you do recover!"
+  instagram="https://www.instagram.com/robertofronteddu/"
+  github="https://github.com/rFronteddu"
+  linkedin = "https://www.linkedin.com/in/rfronteddu/"
+  recent_posts_number = 2

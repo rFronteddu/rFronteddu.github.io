@@ -1,0 +1,2 @@
+When you want to add an image add to params:
+  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
