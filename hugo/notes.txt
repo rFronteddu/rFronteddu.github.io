@@ -1,2 +1,6 @@
 When you want to add an image add to params:
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+To add a post:
+	hugo new posts/postname
+To start hugo test server:
+	hugo server --bind address
