@@ -6,7 +6,18 @@
     <description>Recent content in Posts on Life in a Shell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Feb 2021 20:19:02 +0000</lastBuildDate><atom:link href="http://rFronteddu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Feb 2021 21:55:25 +0000</lastBuildDate><atom:link href="http://rFronteddu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gradle, Spring, and React, Part 1</title>
+      <link>http://rFronteddu.github.io/posts/gradlespringreact1/</link>
+      <pubDate>Tue, 23 Feb 2021 21:55:25 +0000</pubDate>
+      
+      <guid>http://rFronteddu.github.io/posts/gradlespringreact1/</guid>
+      <description>In the past few days I decided to spend some time playing with the spring framework.
+My favorite build environment for JAVA is gradle, so the first step was to figure out how to have Webpack and NPN seamlessly work together.
+I also like for my code to support being compiled from both Windows and Linux. The major issue was how to configure the gradle build file. In fact, by following the instruction found online, WebPack and NPN would fail on Windows for multiple reasons (one of them was path related).</description>
+    </item>
+    
     <item>
       <title>Assigning a capacity to data structures is important</title>
       <link>http://rFronteddu.github.io/posts/alwaysaddsize/</link>
